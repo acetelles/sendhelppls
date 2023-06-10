@@ -1,0 +1,16 @@
+span
+{
+  font-size: 30px;
+}
+body {
+    background-color: coral;
+}
+
+h1 {
+    color: white;
+    background-color: brown;
+}
+
+button {
+    color: darkorange;
+}
